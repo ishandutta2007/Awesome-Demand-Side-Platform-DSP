@@ -33,77 +33,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Demand-Side Platform (DSP) market is estimated at approximately $48 billion to $52 billion in 2026, expanding at an annual growth rate of roughly 19% to 24% propelled by Connected TV (CTV), retail media, and programmatic real-time bidding (RTB). The sector exhibits a barbell structure—concentrated at the top where the top 5 platforms command roughly 47% of total market share, yet moderately fragmented across regional and specialized verticals with over 100+ active DSP players globally.
 
 ## SaaS/Hosted Platforms
 
-- **[Adobe Advertising Cloud](https://business.adobe.com/products/adobe-advertising-cloud.html)**  
-
-  Enterprise DSP integrated with Adobe Experience Cloud for cross-channel programmatic buying, audience targeting, and measurement.
-
-
-
-- **[Google Display & Video 360 (DV360)](https://marketingplatform.google.com/about/display-video-360/)**  
-
-  Google’s premium demand-side platform for display, video, audio, and connected TV advertising with deep YouTube and Google inventory access.
-
-
-
-- **[The Trade Desk](https://www.thetradedesk.com/)**  
-
-  Independent, leading DSP known for transparency, advanced targeting, and strong performance across digital channels including CTV.
-
-
-
-- **[Amazon DSP](https://advertising.amazon.com/solutions/products/amazon-dsp)**  
-
-  Amazon’s demand-side platform offering access to Amazon inventory and audiences plus third-party exchanges, ideal for retail and brand advertisers.
-
-
-
-- **[Criteo](https://www.criteo.com/)**  
-
-  Commerce-focused DSP specializing in retargeting, product recommendations, and performance advertising across retail media and open web.
-
-
-
-- **[Basis Technologies](https://basis.com/)**  
-
-  Workflow-centric platform combining DSP capabilities with campaign planning, trafficking, and omnichannel media execution.
-
-
-
-- **[MediaMath](https://www.mediamath.com/)**  
-
-  Established DSP offering advanced bidding, audience management, and marketing platform features for agencies and brands.
-
-
-
-- **[Amobee](https://www.amobee.com/)**  
-
-  Cross-screen DSP with strong capabilities in TV, digital, and data-driven planning and activation.
-
-
-
-- **[Yahoo DSP](https://www.yahooinc.com/advertising)**  
-
-  Yahoo’s demand-side platform providing access to Yahoo inventory and broader programmatic supply with targeting tools.
-
-
-
-- **[Viant](https://www.viantinc.com/)**  
-
-  People-based DSP focused on omnichannel advertising, identity, and household-level targeting.
-
-
+| Platform | Revenue / Valuation (Descending) | Description | Pricing Model & Starting Tier | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Amazon DSP](https://advertising.amazon.com/solutions/products/amazon-dsp)** | ~$2.0T+ Market Cap (~$638B Revenue) | Amazon's demand-side platform offering direct access to Amazon owned-and-operated inventory, audiences, and third-party exchanges. | CPM-based model with $0 minimum spend on self-serve direct access ($3,000–$5,000/mo recommended effective floor; managed-service tier requires $50,000/mo minimum commit). | No free tier or trial; requires funding working media spend (no sandbox trial credits). |
+| **[Google Display & Video 360 (DV360)](https://marketingplatform.google.com/about/display-video-360/)** | ~$2.0T+ Market Cap (~$350B Revenue) | Google’s enterprise demand-side platform for cross-channel display, video, audio, and CTV with deep YouTube and Google ecosystem integration. | Percentage-of-media fee (~12%–15% take-rate); accessible via partner resellers starting at $2,000–$5,000/month media spend (direct Google enterprise contracts require six-figure annual commitments). | No free tier or trial; demo access is strictly available via sales-assisted walkthroughs. |
+| **[Adobe Advertising Cloud](https://business.adobe.com/products/adobe-advertising-cloud.html)** | ~$150B–$200B Market Cap (~$21.5B Revenue) | Enterprise DSP natively integrated with Adobe Experience Cloud for cross-channel programmatic buying, audience activation, and attribution. | Enterprise software subscription plus tech fee percentage of media spend; starting commitments typically start at $10,000+/month ($100,000+/year contract). | No free tier or trial; platform evaluation is available only through scheduled enterprise guided demos. |
+| **[The Trade Desk](https://www.thetradedesk.com/)** | ~$35B–$45B Market Cap (~$2.9B Revenue) | Premier independent DSP known for transparent auctions, CTV leadership, and omnichannel reach across the open internet. | Platform tech fee of ~15%–20% of gross media spend; direct enterprise seats require a minimum spend commit of $100,000/quarter ($33,000+/month) or via resellers at lower minimums. | No free tier or trial; live bidder infrastructure requires enterprise contract execution. |
+| **[Yahoo DSP](https://www.yahooinc.com/advertising)** | ~$20B Valuation (~$7B Revenue) | Omnichannel DSP under Apollo Global Management providing access to Yahoo native inventory and global programmatic supply with identity graph solutions. | CPM/percentage-of-spend fee structure; accessible through self-serve and partner tiers with minimum spend starting at ~$2,500–$5,000/month. | No free tier or trial; live bidding requires active campaign funding and credit approval. |
+| **[Criteo](https://www.criteo.com/)** | ~$1.5B–$2.0B Market Cap (~$1.9B Revenue) | Commerce-focused DSP and retail media platform specializing in dynamic product retargeting and open-web performance advertising. | Self-serve CPC/CPM model with no platform subscription fee; campaigns start at $0 minimum spend (promotional ad-credit matching offers require meeting an initial $500 spend threshold). | No free tier or trial; requires paying for clicks/impressions delivered (matched ad-credit promos offered periodically). |
+| **[Viant](https://www.viantinc.com/)** | ~$800M–$1.0B Market Cap (~$344M Revenue) | People-based omnichannel DSP powered by ViantAI, focusing on household-level identity resolution and CTV advertising. | Choice of SaaS monthly subscription licensing fee starting around $2,500/month or percentage-of-media spend agreements tailored via custom master service contract. | No free tier or trial; interactive product demos provided upon qualified sales consultation. |
+| **[Amobee](https://www.amobee.com/)** *(Nexxen)* | ~$500M Market Cap (~$380M Revenue) | Omnichannel and Connected TV DSP acquired by Nexxen (formerly Tremor International) for cross-screen data-driven planning and activation. | Dynamic CPM and programmatic tech-fee model starting at ~$5,000/month minimum media spend under Nexxen platform agreements. | No free tier or trial; prospective agency clients can request custom platform walkthroughs. |
+| **[Basis Technologies](https://basis.com/)** | ~$155M Revenue (Private) | Comprehensive media automation platform unifying DSP capabilities with campaign planning, workflow management, and financial reconciliation. | All-inclusive tech fee bundled into working media spend (~10%–15% effective fee) with flexible entry terms ($0 strict contract minimum for independent agency seats). | No free tier or trial; offers a 1-day live interactive personalized demo upon onboarding request. |
+| **[MediaMath](https://www.mediamath.com/)** *(Infillion)* | ~$100M Revenue (Private) | Pioneer programmatic DSP acquired and relaunched by Infillion, offering composable architecture, algorithmic bidding, and omnichannel DSP execution. | Modular tech fee pricing starting at ~10%–15% of media spend; custom contract tiers start with minimum monthly commitments of ~$3,000–$5,000. | No free tier or trial; live test seats require Infillion master services agreement onboarding. |
 
 ## Open-Source GitHub Projects
 
