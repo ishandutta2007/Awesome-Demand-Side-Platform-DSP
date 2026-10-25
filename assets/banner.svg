@@ -120,7 +120,7 @@
       <circle cx="16" cy="15" r="4" fill="#38bdf8">
         <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" />
       </circle>
-      <text x="30" y="19" class="badge-label">ADTECH &bull; CURATED LIST</text>
+      <text x="30" y="19" class="badge-label">ADTECH • CURATED LIST</text>
     </g>
 
     <!-- Title Header -->
@@ -130,7 +130,7 @@
 
     <!-- Subtitle / Tagline -->
     <g transform="translate(0, 195)">
-      <text x="0" y="0" class="subtitle-text">Programmatic Advertising &bull; Real-Time Bidding (RTB) &bull; OpenRTB &bull; Media Buying</text>
+      <text x="0" y="0" class="subtitle-text">Programmatic Advertising • Real-Time Bidding (RTB) • OpenRTB • Media Buying</text>
     </g>
 
     <!-- Bottom Feature Pills -->
