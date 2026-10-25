@@ -78,70 +78,70 @@ The table below lists prominent commercial Demand-Side Platforms ranked in desce
 
 Commercial DSPs dominate large-scale media buying due to carrier connections, credit lines, and proprietary fraud prevention. However, open-source projects provide the foundational building blocks—including low-latency C++ / Go bidding engines, auction simulators, and OpenRTB serializers—for engineering teams building self-hosted, private programmatic bidders.
 
-All repositories are sorted in descending order by GitHub stargazer count. Each repository includes a social star badge linking directly to its stargazers page.
+All repositories are sorted in descending order by GitHub stargazer count. Each repository includes a social Stars_Badge linking directly to its stargazers page.
 
 ### ⚡ Bidders & DSP Engines
 
-- **[RTBkit](https://github.com/rtbkit/rtbkit)** [![GitHub stars](https://img.shields.io/github/stars/rtbkit/rtbkit?style=social&color=white)](https://github.com/rtbkit/rtbkit/stargazers)  
+- **[RTBkit](https://github.com/rtbkit/rtbkit)** [![GitHub_Stars](https://img.shields.io/github/stars/rtbkit/rtbkit?style=social&color=white)](https://github.com/rtbkit/rtbkit/stargazers)  
   Classic C++ open-source software package for building and deploying real-time bidders for display advertising. One of the earliest, widely cited open DSP architectures.
 
-- **[vanilla-rtb](https://github.com/venediktov/vanilla-rtb)** [![GitHub stars](https://img.shields.io/github/stars/venediktov/vanilla-rtb?style=social&color=white)](https://github.com/venediktov/vanilla-rtb/stargazers)  
+- **[vanilla-rtb](https://github.com/venediktov/vanilla-rtb)** [![GitHub_Stars](https://img.shields.io/github/stars/venediktov/vanilla-rtb?style=social&color=white)](https://github.com/venediktov/vanilla-rtb/stargazers)  
   High-performance C++14 cross-platform bidder engine and framework designed for sub-10ms RTB bidding and customizable DSP development.
 
-- **[OpenDSP](https://github.com/javagossip/opendsp)** [![GitHub stars](https://img.shields.io/github/stars/javagossip/opendsp?style=social&color=white)](https://github.com/javagossip/opendsp/stargazers)  
+- **[OpenDSP](https://github.com/javagossip/opendsp)** [![GitHub_Stars](https://img.shields.io/github/stars/javagossip/opendsp?style=social&color=white)](https://github.com/javagossip/opendsp/stargazers)  
   Open-source mobile-focused DSP platform featuring built-in mainstream AdX integrations, budget management, and an administration dashboard.
 
-- **[rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder)** [![GitHub stars](https://img.shields.io/github/stars/vanilla-rtb/rapid-bidder?style=social&color=white)](https://github.com/vanilla-rtb/rapid-bidder/stargazers)  
+- **[rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder)** [![GitHub_Stars](https://img.shields.io/github/stars/vanilla-rtb/rapid-bidder?style=social&color=white)](https://github.com/vanilla-rtb/rapid-bidder/stargazers)  
   Ready-to-run DSP application built on top of the vanilla-rtb stack demonstrating real-time bidding, campaign handling, and pacing algorithms.
 
-- **[Zhuque](https://github.com/javagossip/zhuque)** [![GitHub stars](https://img.shields.io/github/stars/javagossip/zhuque?style=social&color=white)](https://github.com/javagossip/zhuque/stargazers)  
+- **[Zhuque](https://github.com/javagossip/zhuque)** [![GitHub_Stars](https://img.shields.io/github/stars/javagossip/zhuque?style=social&color=white)](https://github.com/javagossip/zhuque/stargazers)  
   Comprehensive all-in-one open-source digital advertising suite featuring modular implementations of DSP, SSP, Ad Exchange (AdX), and DMP services.
 
-- **[Eyevinn DSP](https://github.com/Eyevinn/demand-side-platform)** [![GitHub stars](https://img.shields.io/github/stars/Eyevinn/demand-side-platform?style=social&color=white)](https://github.com/Eyevinn/demand-side-platform/stargazers)  
+- **[Eyevinn DSP](https://github.com/Eyevinn/demand-side-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/Eyevinn/demand-side-platform?style=social&color=white)](https://github.com/Eyevinn/demand-side-platform/stargazers)  
   Lightweight open-source DSP implementation crafted in Node.js/TypeScript designed for video ad testing, VAST/VPAID workflows, and educational RTB simulation.
 
-- **[AdProX (ad_prox_dsp)](https://github.com/nayan9229/ad_prox_dsp)** [![GitHub stars](https://img.shields.io/github/stars/nayan9229/ad_prox_dsp?style=social&color=white)](https://github.com/nayan9229/ad_prox_dsp/stargazers)  
+- **[AdProX (ad_prox_dsp)](https://github.com/nayan9229/ad_prox_dsp)** [![GitHub_Stars](https://img.shields.io/github/stars/nayan9229/ad_prox_dsp?style=social&color=white)](https://github.com/nayan9229/ad_prox_dsp/stargazers)  
   High-throughput Go-based programmatic DSP supporting OpenRTB, VAST XML, native creatives, real-time bid evaluations, and ad fraud mitigation.
 
-- **[VOXDSP](https://github.com/VOXDSP/VOXDSP)** [![GitHub stars](https://img.shields.io/github/stars/VOXDSP/VOXDSP?style=social&color=white)](https://github.com/VOXDSP/VOXDSP/stargazers)  
+- **[VOXDSP](https://github.com/VOXDSP/VOXDSP)** [![GitHub_Stars](https://img.shields.io/github/stars/VOXDSP/VOXDSP?style=social&color=white)](https://github.com/VOXDSP/VOXDSP/stargazers)  
   OpenRTB-compliant Demand-Side Platform and bidder built for high-performance bid request handling, campaign targeting, and impression tracking.
 
-- **[BlazeDSP](https://github.com/BlazeDSP/BlazeDSP)** [![GitHub stars](https://img.shields.io/github/stars/BlazeDSP/BlazeDSP?style=social&color=white)](https://github.com/BlazeDSP/BlazeDSP/stargazers)  
+- **[BlazeDSP](https://github.com/BlazeDSP/BlazeDSP)** [![GitHub_Stars](https://img.shields.io/github/stars/BlazeDSP/BlazeDSP?style=social&color=white)](https://github.com/BlazeDSP/BlazeDSP/stargazers)  
   Cloud-native open-source Demand-Side Platform designed with a focus on fault tolerance, horizontal scaling, and low-latency cloud infrastructure.
 
-- **[open-adx](https://github.com/javagossip/open-adx)** [![GitHub stars](https://img.shields.io/github/stars/javagossip/open-adx?style=social&color=white)](https://github.com/javagossip/open-adx/stargazers)  
+- **[open-adx](https://github.com/javagossip/open-adx)** [![GitHub_Stars](https://img.shields.io/github/stars/javagossip/open-adx?style=social&color=white)](https://github.com/javagossip/open-adx/stargazers)  
   Open-source Ad Exchange (AdX) engine providing auction mechanics and exchange endpoints for testing and operating with custom DSP bidders.
 
 ---
 
 ### 🌐 OpenRTB Protocols & Toolkits
 
-- **[OpenRTB (openrtb/OpenRTB)](https://github.com/openrtb/OpenRTB)** [![GitHub stars](https://img.shields.io/github/stars/openrtb/OpenRTB?style=social&color=white)](https://github.com/openrtb/OpenRTB/stargazers)  
+- **[OpenRTB (openrtb/OpenRTB)](https://github.com/openrtb/OpenRTB)** [![GitHub_Stars](https://img.shields.io/github/stars/openrtb/OpenRTB?style=social&color=white)](https://github.com/openrtb/OpenRTB/stargazers)  
   Official community and issue tracking repository for the OpenRTB standard that unifies programmatic real-time bidding protocols globally.
 
-- **[IAB OpenRTB](https://github.com/InteractiveAdvertisingBureau/openrtb)** [![GitHub stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/openrtb?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/openrtb/stargazers)  
+- **[IAB OpenRTB](https://github.com/InteractiveAdvertisingBureau/openrtb)** [![GitHub_Stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/openrtb?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/openrtb/stargazers)  
   Core specification schemas and protocol documentation maintained by the Interactive Advertising Bureau (IAB) Tech Lab.
 
-- **[bsm/openrtb](https://github.com/bsm/openrtb)** [![GitHub stars](https://img.shields.io/github/stars/bsm/openrtb?style=social&color=white)](https://github.com/bsm/openrtb/stargazers)  
+- **[bsm/openrtb](https://github.com/bsm/openrtb)** [![GitHub_Stars](https://img.shields.io/github/stars/bsm/openrtb?style=social&color=white)](https://github.com/bsm/openrtb/stargazers)  
   Blazing-fast OpenRTB protocol data models and JSON serialization / deserialization library for Go (Golang).
 
-- **[InteractiveAdvertisingBureau/openrtb2.x](https://github.com/InteractiveAdvertisingBureau/openrtb2.x)** [![GitHub stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/openrtb2.x?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/openrtb2.x/stargazers)  
+- **[InteractiveAdvertisingBureau/openrtb2.x](https://github.com/InteractiveAdvertisingBureau/openrtb2.x)** [![GitHub_Stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/openrtb2.x?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/openrtb2.x/stargazers)  
   Official specifications, release notes, and reference materials for OpenRTB version 2.6 and subsequent revisions.
 
-- **[mxmCherry/openrtb](https://github.com/mxmCherry/openrtb)** [![GitHub stars](https://img.shields.io/github/stars/mxmCherry/openrtb?style=social&color=white)](https://github.com/mxmCherry/openrtb/stargazers)  
+- **[mxmCherry/openrtb](https://github.com/mxmCherry/openrtb)** [![GitHub_Stars](https://img.shields.io/github/stars/mxmCherry/openrtb?style=social&color=white)](https://github.com/mxmCherry/openrtb/stargazers)  
   Comprehensive Go implementation of OpenRTB 2.x, OpenRTB 3.0, AdCOM 1.0, and Native 1.2 models with zero-allocation JSON handling.
 
 ---
 
 ### 📡 Header Bidding & Auction Infrastructure
 
-- **[Prebid.js](https://github.com/prebid/Prebid.js)** [![GitHub stars](https://img.shields.io/github/stars/prebid/Prebid.js?style=social&color=white)](https://github.com/prebid/Prebid.js/stargazers)  
+- **[Prebid.js](https://github.com/prebid/Prebid.js)** [![GitHub_Stars](https://img.shields.io/github/stars/prebid/Prebid.js?style=social&color=white)](https://github.com/prebid/Prebid.js/stargazers)  
   The leading open-source header bidding client-side framework used by thousands of publishers to run fair auctions among multiple DSPs and SSPs simultaneously.
 
-- **[prebid-server](https://github.com/prebid/prebid-server)** [![GitHub stars](https://img.shields.io/github/stars/prebid/prebid-server?style=social&color=white)](https://github.com/prebid/prebid-server/stargazers)  
+- **[prebid-server](https://github.com/prebid/prebid-server)** [![GitHub_Stars](https://img.shields.io/github/stars/prebid/prebid-server?style=social&color=white)](https://github.com/prebid/prebid-server/stargazers)  
   High-performance server-side header bidding and auction orchestration engine (written in Go & Java) enabling cloud auctions with low latency.
 
-- **[OpenSSP](https://github.com/ad-tech-group/openssp)** [![GitHub stars](https://img.shields.io/github/stars/ad-tech-group/openssp?style=social&color=white)](https://github.com/ad-tech-group/openssp/stargazers)  
+- **[OpenSSP](https://github.com/ad-tech-group/openssp)** [![GitHub_Stars](https://img.shields.io/github/stars/ad-tech-group/openssp?style=social&color=white)](https://github.com/ad-tech-group/openssp/stargazers)  
   Open-source Supply-Side Platform (SSP) and exchange connector built to bridge publisher inventory directly into OpenRTB-compliant DSP bidders.
 
 ---
